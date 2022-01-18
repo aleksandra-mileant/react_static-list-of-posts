@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,WAAY,CACZ,YAAa,CACd,MAGC,WAAY,CACZ,gBAAiB,CAEjB,UACE,mBAAoB","file":"main.0afa6c63.chunk.css","sourcesContent":[".App {\n  width: 100px;\n  height: 100px;\n}\n\n.card {\n  width: 40rem;\n  margin: 20px auto;\n\n  &-pad {\n    padding-bottom: 50px;\n  }\n}\n"]}
